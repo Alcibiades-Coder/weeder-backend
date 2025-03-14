@@ -1,0 +1,4 @@
+#gitIgnore
+.env
+dist/
+node_modules/
